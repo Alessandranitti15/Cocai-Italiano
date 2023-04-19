@@ -418,9 +418,9 @@ letter-spacing: 1px;
 }
 
 .teacher__description {
-  font-size: 15px;
-  font-weight: 200;
-  padding: 20px 10px 0;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0 10px 0;
 }
 
 .teacher__image {
